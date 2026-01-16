@@ -16,7 +16,7 @@ A real-time computer vision application that detects and classifies objects via 
 ##  Installation & Setup
 
 1. **Clone the repository**
-   ```bash
+```
    git clone [https://github.com/YOUR_USERNAME/real-time-object-detection.git](https://github.com/rajputprakhar/real-time-object-detection.git)
    cd real-time-object-detection
 ```
